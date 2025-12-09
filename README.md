@@ -7,4 +7,4 @@ DW 아카데미 학원에서 진행한 팀 프로젝트 내용을 정리한 포�
 
 ## 2차 프로젝트(코드 전체 공개)
 - [02-first-aid-lms](./02-first-aid-lms)
-- [02-first-aid-lms-code](././02-first-aid-lms-code)
+- [././02-first-aid-lms-code](https://github.com/cheoniseul/02-first-aid-lms-code)
