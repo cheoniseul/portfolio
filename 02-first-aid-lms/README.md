@@ -37,14 +37,6 @@ Unity 기반의 시뮬레이션형 게임을 통해 실제 상황 대응 절차�
 
 ---
 
-## 화면 미리보기
-
-프로젝트의 핵심 화면 일부를 아래에 캡처해 제공합니다.
-
-### 관리자 대시보드 화면
-
----
-
 ## 프로젝트 정보
 - 프로젝트 기간: 2025.11.03 ~ 2025.12.01
 - 팀 구성: 6명
@@ -53,3 +45,10 @@ Unity 기반의 시뮬레이션형 게임을 통해 실제 상황 대응 절차�
 
 ## 작성자
 천이슬
+
+---
+
+## 이동 링크
+-  [portfolio](https://github.com/cheoniseul/portfolio)
+-  [web-portfolio](https://github.com/cheoniseul/web-portfolio)
+-  [02-first-aid-lms-code](https://github.com/cheoniseul/02-first-aid-lms-code)
