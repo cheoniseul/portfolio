@@ -44,3 +44,9 @@
 
 ## 작성자
 천이슬
+
+---
+
+## 관련 레포지토리
+- [포트폴리오로 돌아가기](https://github.com/cheoniseul/portfolio)
+- [웹 포트폴리오 보기](https://cheoniseul.github.io/web-portfolio)
