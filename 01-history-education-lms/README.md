@@ -49,4 +49,4 @@
 
 ## 관련 레포지토리
 - [포트폴리오로 돌아가기](https://github.com/cheoniseul/portfolio)
-- [웹 포트폴리오 보기](https://github.com/cheoniseul/web-portfolio)
+- [web-portfolio (code)](https://github.com/cheoniseul/web-portfolio)
