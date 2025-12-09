@@ -49,5 +49,5 @@
 
 ## 관련 레포지토리
 - [포트폴리오로 돌아가기](https://github.com/cheoniseul/portfolio)
-- [02-first-aid-lms](./02-first-aid-lms)
+- [02-first-aid-lms](https://github.com/cheoniseul/portfolio/tree/main/02-first-aid-lms)
 - [web-portfolio (code)](https://github.com/cheoniseul/web-portfolio)
