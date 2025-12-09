@@ -48,8 +48,12 @@ Unity 기반의 시뮬레이션형 게임을 통해 실제 상황 대응 절차�
 
 ---
 
+## 코드 보러가기
+- [02-first-aid-lms (code)](https://github.com/cheoniseul/02-first-aid-lms-code)
+
+---
+
 ## 관련 레포지토리
 - [포트폴리오로 돌아가기](https://github.com/cheoniseul/portfolio)
 - [web-portfolio (code)](https://github.com/cheoniseul/web-portfolio)
-- [02-first-aid-lms (code)](https://github.com/cheoniseul/02-first-aid-lms-code)
 
