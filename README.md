@@ -12,7 +12,7 @@ DW 아카데미에서 진행한 팀 프로젝트들을 정리한 포트폴리오
 
 ## 2차 프로젝트 (코드 전체 공개)
 - [프로젝트 개요 (02-first-aid-lms)](./02-first-aid-lms)
-- [프로젝트 코드 (02-first-aid-lms-code)](https://github.com/cheoniseul/02-first-aid-lms-code)
+- [프로젝트 코드 (02-first-aid-lms (code))](https://github.com/cheoniseul/02-first-aid-lms-code)
 
 ---
 
