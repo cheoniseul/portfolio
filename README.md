@@ -18,9 +18,7 @@ DW 아카데미에서 진행한 팀 프로젝트들을 정리한 포트폴리오
 
 ## 웹 포트폴리오 (코드 전체 공개)
 - [web-portfolio (code)](https://github.com/cheoniseul/web-portfolio)
+- **배포 링크**
+  Web Portfolio (GitHub Pages)
+  https://cheoniseul.github.io/web-portfolio/
 
----
-
-## 배포 링크
-**Web Portfolio (GitHub Pages)**  
-https://cheoniseul.github.io/web-portfolio/
