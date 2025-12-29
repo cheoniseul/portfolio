@@ -16,6 +16,11 @@ DW 아카데미에서 진행한 팀 프로젝트들을 정리한 포트폴리오
 
 ---
 
+## 개인 프로젝트 (코드 전체 공개)
+- [프로젝트 개요 및 코드 (pokemon-pokedex)](https://https://github.com/cheoniseul/pokemon-pokedex)
+
+---
+
 ## 웹 포트폴리오 (코드 전체 공개)
 - [web-portfolio (code)](https://github.com/cheoniseul/web-portfolio)
 
